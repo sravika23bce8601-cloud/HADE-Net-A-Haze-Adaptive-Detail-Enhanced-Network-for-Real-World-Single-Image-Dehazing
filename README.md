@@ -1,0 +1,2 @@
+# HADE-Net-A-Haze-Adaptive-Detail-Enhanced-Network-for-Real-World-Single-Image-Dehazing
+ Real-world haze is dense and spatially non-uniform, and the paired datasets available for training are very small. Detailenhanced convolutional dehazing networks apply one fixed set of filters to every image, whatever its haze density, and their attention modules receive no explicit haze-density cue. This paper proposes HADE-Net,.
